@@ -12,4 +12,4 @@ New images files will be added over the course of the next few days or weeks. I 
 # Bugs
 When you see any mistakes in the files, open a bug report in the bugtracker section of this repository. Alternatively, you may also leave me a message on the #minecraft channel of Gamepedia Slack or on [my talk page](https://minecraft.gamepedia.com/User_talk:DarkShadowTNT) on the Minecraft Wiki.
 
-<small><a href="https://bugs.mojang.com/browse/MC-122584" title="MC-122584">1 killed you Creeper time(s)!</a></small>
+<a href="https://bugs.mojang.com/browse/MC-122584" title="MC-122584"><small>1 killed you Creeper time(s)!</small></a>
