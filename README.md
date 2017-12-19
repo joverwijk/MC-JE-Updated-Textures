@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joverwijk/MC-JE-Updated-Textures/master/Block/Furnace%20(Active).png" alt="New textures are cooking..." style="float:right">
+<img src="https://raw.githubusercontent.com/joverwijk/MC-JE-Updated-Textures/master/Block/Furnace%20(Active).png" alt="New textures are cooking..." style="float:right"/>
 # MC-JE-Updated-Textures
 For new renders of Minecraft
 
