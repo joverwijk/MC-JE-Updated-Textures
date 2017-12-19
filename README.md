@@ -1,10 +1,4 @@
-<style>
-  .furnace {
-    float: right
-  }
-</style>
-
-<img class="furnace" src="https://raw.githubusercontent.com/joverwijk/MC-JE-Updated-Textures/master/Block/Furnace%20(Active).png" alt="New textures are cooking..."/>
+<img align="right" src="https://raw.githubusercontent.com/joverwijk/MC-JE-Updated-Textures/master/Block/Furnace%20(Active).png" title="New renders are cooking..." alt="Slow internet or your provider put GitHub in the slow lane :(">
 
 # MC-JE-Updated-Textures
 For new renders of Minecraft
