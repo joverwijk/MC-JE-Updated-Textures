@@ -1,5 +1,5 @@
 # Preface
-This repository is licensed under two licenses: the [Mojang license](#brand-and-asset-usage-guidelines-for-our-games) and [CC-BY-NC-SA 3.0](#creative-commons-attribution-noncommercial-sharealike-30-unported).
+This repository is licensed under two licenses: the [Mojang license](#brand-and-asset-usage-guidelines-for-our-games) and [CC-BY-NC-SA 3.0](#creative-commons-attribution-noncommercial-sharealike-30-unported). The licenses are placed in order of importancy. In this situation, the repository contains renders of blocks, items, mobs, et cetera that are all present in *Minecraft*. The *Minecraft Wiki* uses these kinds of renders, but all renders are taken from game, so to say. Therefor the license the *Minecraft Wiki* uses, is put lower than Mojang's license (or brand guidelines, rather).
 
 *FOR ALL RENDERS PRESENT HERE*
 
